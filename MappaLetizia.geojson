@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.238694,
+          40.849957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Casa",
+        "description": "Questa presumibilmente è casa tua"
+      },
+      "id": "QzODQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.238989,
+          40.851897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Metro",
+        "description": "La futura stazione della metropolitana"
+      },
+      "id": "QxMjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.238963,
+          40.850417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "CasaRosa",
+        "description": "Una bella casa"
+      },
+      "id": "QxNDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.243946,
+          40.851881
+        ],
+        "type": "Point"
+      },
+      "properties": {},
+      "id": "Q3Nzc"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.238963,
+          40.848913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Panorama",
+        "description": "Un bel panorama: sarà il Vesuvio?"
+      },
+      "id": "g5ODk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.243909,
+          40.851889
+        ],
+        "type": "Point"
+      },
+      "properties": {},
+      "id": "gwMjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.236995,
+          40.848853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tasso Alcolico"
+      },
+      "id": "k5MzE"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "Nome": "MappaLetizia",
+    "Descrizione": "Dataset di prova per Letizia",
+    "umapKey": "",
+    "WebPageURL": ""
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.238694,
+          40.849957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ulsp_type": "Risorsa",
+        "Titolo": "Casa",
+        "Foto": "\n",
+        "Descrizione": "DLEIBERATAMENTE SENZA FOTO.\nQuesta presumibilmente è casa tua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "Servizi",
+        "Altri tag": ""
+      },
+      "id": "QzODQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.238989,
+          40.851897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ulsp_type": "Risorsa",
+        "Titolo": "Metro",
+        "Foto": "https://i.postimg.cc/Gmyn9T7r/LMetro.png",
+        "Descrizione": "La futura stazione della metropolitana. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "",
+        "Altri tag": ""
+      },
+      "id": "QxMjQ"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.238963,
+          40.850417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ulsp_type": "Risorsa",
+        "Titolo": "CasaRosa",
+        "Foto": "https://i.postimg.cc/CLtVFs4m/LCasa-Rosa.png",
+        "Descrizione": "Una bella casa.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "",
+        "Altri tag": ""
+      },
+      "id": "QxNDE"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.238963,
+          40.848913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "ulsp_type": "Risorsa",
+        "Titolo": "Panorama",
+        "Foto": "https://i.postimg.cc/XNsbPbBM/LPanorama.png",
+        "Descrizione": "Un bel panorama: sarà il Vesuvio?\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "",
+        "Altri tag": ""
+      },
+      "id": "g5ODk"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          14.236995,
+          40.848853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Tasso Alcolico",
+        "ulsp_type": "Risorsa",
+        "Titolo": "Tasso Alcolico",
+        "Foto": "https://i.postimg.cc/YqjHKsQv/LTasso-Alcolico.png",
+        "Descrizione": "Un nome una garanzia,\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "",
+        "Altri tag": ""
+      },
+      "id": "k5MzE"
+    }
+  ]
+}
