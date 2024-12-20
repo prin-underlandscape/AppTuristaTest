@@ -1,5 +1,11 @@
 {
   "type": "FeatureCollection",
+  "properties": {
+    "Nome": "MappaLetizia",
+    "Descrizione": "Dataset di prova per Letizia",
+    "umapKey": "",
+    "WebPageURL": ""
+  },
   "features": [
     {
       "type": "Feature",
@@ -11,8 +17,14 @@
         "type": "Point"
       },
       "properties": {
-        "name": "Casa",
-        "description": "Questa presumibilmente è casa tua"
+        "ulsp_type": "Risorsa",
+        "Titolo": "Casa",
+        "Foto": "",
+        "Descrizione": "DLEIBERATAMENTE SENZA FOTO.\nQuesta presumibilmente è casa tua.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "Servizi",
+        "Altri tag": ""
       },
       "id": "QzODQ"
     },
@@ -26,8 +38,14 @@
         "type": "Point"
       },
       "properties": {
-        "name": "Metro",
-        "description": "La futura stazione della metropolitana"
+        "ulsp_type": "Risorsa",
+        "Titolo": "Metro",
+        "Foto": "https://i.postimg.cc/Gmyn9T7r/LMetro.png",
+        "Descrizione": "La futura stazione della metropolitana. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "",
+        "Altri tag": ""
       },
       "id": "QxMjQ"
     },
@@ -41,22 +59,16 @@
         "type": "Point"
       },
       "properties": {
-        "name": "CasaRosa",
-        "description": "Una bella casa"
+        "ulsp_type": "Risorsa",
+        "Titolo": "CasaRosa",
+        "Foto": "https://i.postimg.cc/CLtVFs4m/LCasa-Rosa.png",
+        "Descrizione": "Una bella casa.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "",
+        "Altri tag": ""
       },
       "id": "QxNDE"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          14.243946,
-          40.851881
-        ],
-        "type": "Point"
-      },
-      "properties": {},
-      "id": "Q3Nzc"
     },
     {
       "type": "Feature",
@@ -68,22 +80,16 @@
         "type": "Point"
       },
       "properties": {
-        "name": "Panorama",
-        "description": "Un bel panorama: sarà il Vesuvio?"
+        "ulsp_type": "Risorsa",
+        "Titolo": "Panorama",
+        "Foto": "https://i.postimg.cc/XNsbPbBM/LPanorama.png",
+        "Descrizione": "Un bel panorama: sarà il Vesuvio?\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "",
+        "Altri tag": ""
       },
       "id": "g5ODk"
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          14.243909,
-          40.851889
-        ],
-        "type": "Point"
-      },
-      "properties": {},
-      "id": "gwMjQ"
     },
     {
       "type": "Feature",
@@ -95,7 +101,15 @@
         "type": "Point"
       },
       "properties": {
-        "name": "Tasso Alcolico"
+        "name": "Tasso Alcolico",
+        "ulsp_type": "Risorsa",
+        "Titolo": "Tasso Alcolico",
+        "Foto": "https://i.postimg.cc/YqjHKsQv/LTasso-Alcolico.png",
+        "Descrizione": "Un nome una garanzia,\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "Altitudine": "",
+        "Link": "",
+        "Tag primario": "",
+        "Altri tag": ""
       },
       "id": "k5MzE"
     }
